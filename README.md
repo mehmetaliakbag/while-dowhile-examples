@@ -1,0 +1,1 @@
+kullanıcının girdiği limit değerine kadar 0'dan başlayarak bir sayaç çalıştıran hem while hem de do-while döngüleriyle yazılmış iki ayrı örnek bulunmaktadır. Ayrıca, örnek girdilerle bu iki döngü arasındaki farkı açıklayan yorumlar da yer alıyor.
