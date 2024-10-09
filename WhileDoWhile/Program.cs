@@ -1,6 +1,8 @@
 ﻿// Kullanıcının girdiği bir limit değerine kadar konsol ekranına çıktı verip, while ile do-while farkını görcez
 
-#region While
+#region Task1
+
+// While döngüsünün çalışma şeklini
 
 Console.Write("Bir sayı girin: ");
 
@@ -32,6 +34,7 @@ do
     counter2++;
 }
 while (counter2 <= limit2);
+
 #endregion
 
 // İkisi arasındaki temel fark while bir koşul yanlış ise hiç çalışmaz. Koşul > Blok > Koşul Blok şeklinde çalışır
